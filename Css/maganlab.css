@@ -14,3 +14,9 @@ body{
 .sorkizart{
     text-align: justify;
 }
+h1{
+    text-align: center;
+}
+p{
+    font-family: "Sofia", sans-serif;
+}
