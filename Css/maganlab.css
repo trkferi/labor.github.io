@@ -5,7 +5,7 @@
     
 }
 body{
-    background-color: rgb(205, 241, 255);
+    background-color: #A9FFFA;
 }
 .img-fluid{
     border: 20px, solid, blue;
@@ -20,3 +20,17 @@ h1{
 p{
     font-family: "Sofia", sans-serif;
 }
+footer{
+    background-color: #3E5DFF;    
+}
+footer li{
+
+    list-style-type: none;
+}
+nav{
+    background-color: #3E5DFF;    
+}
+.carousel{
+    height: 500px;
+}
+
