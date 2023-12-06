@@ -1,0 +1,22 @@
+.carousel-item {
+    position: relative;
+    height: 900px;
+
+    
+}
+body{
+    background-color: rgb(205, 241, 255);
+}
+.img-fluid{
+    border: 20px, solid, blue;
+    border-radius: 10px;
+}
+.sorkizart{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-family: "Sofia", sans-serif;
+}
