@@ -1,8 +1,4 @@
-.carousel-item {
-    position: relative;
-    height: 800px;
-    
-}
+
 body{
     background-color: #A9FFFA;
 }
@@ -31,5 +27,11 @@ nav{
 }
 .carousel{
     height: 500px;
+}
+
+.carousel-item {
+    position: relative;
+    height: 800px;
+    
 }
 
