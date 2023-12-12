@@ -28,7 +28,16 @@ nav{
 .carousel{
     height: 500px;
 }
+form{
+    background-color: whitesmoke;
+    border: solid 1px black;
+    border-radius: 15px;
+}
+.idopont
+{
+    border: solid 1px black;
 
+}
 .carousel-item {
     position: relative;
     height: 800px;
