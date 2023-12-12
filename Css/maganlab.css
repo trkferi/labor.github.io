@@ -1,9 +1,4 @@
-.carousel-item {
-    position: relative;
-    height: 900px;
 
-    
-}
 body{
     background-color: #A9FFFA;
 }
@@ -43,3 +38,9 @@ form{
     border: solid 1px black;
 
 }
+.carousel-item {
+    position: relative;
+    height: 800px;
+    
+}
+
