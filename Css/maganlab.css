@@ -39,6 +39,10 @@ form{
 
 }
 
+.keret{
+    border: 1px solid black;
+}
+
 form{
   padding-bottom: 20px;
 }
