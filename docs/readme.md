@@ -7,9 +7,9 @@
 |:--- |:---:|
 |Nagylabor|10.500 Ft|
 |Allergia csomag|15.990 Ft|
-|Post-COVID csomag|23.850Ft|
-|Női hormon vizsgálat|26.000Ft|
-|Prosztata vizsgálat|14.000Ft|
-|Sportoló csomag|17.990Ft|
+|Post-COVID csomag|23.850 Ft|
+|Női hormon vizsgálat|26.000 Ft|
+|Prosztata vizsgálat|14.000 Ft|
+|Sportoló csomag|17.990 Ft|
 
 ##### Minden jog fenntartva &copy; MediLab Kft. 2023
