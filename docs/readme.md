@@ -12,4 +12,6 @@
 |Prosztata vizsgálat|14.000 Ft|
 |Sportoló csomag|17.990 Ft|
 
+# A képek forrásai: Pixaby és Unsplash
+
 ##### Minden jog fenntartva &copy; MediLab Kft. 2023
